@@ -1,0 +1,10 @@
+1. Dataset https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
+2. - Validation set 40% = 874
+   - Train set 60% = 1314
+3. Implementasi :
+   - Augmentasi gambar
+   - Image data generator
+   - Model sequential
+   - Pelatihan model < 30 menit
+   - Akurasi min 85%
+4. Data diri
